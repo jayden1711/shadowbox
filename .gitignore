@@ -1,0 +1,22 @@
+# Results, logs and write-ups stay local until the owner approves publishing
+results/
+# Owner videos, frames, poses, clips, fighter files: private
+data/
+*.mp4
+*.mov
+*.MOV
+# Body models and weights: never committed (licenses)
+body_models/
+*.pkl
+*.npz
+*.onnx
+*.pt
+*.pth
+*.safetensors
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+.claude/worktrees/
