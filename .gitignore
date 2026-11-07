@@ -20,3 +20,7 @@ __pycache__/
 .pytest_cache/
 *.log
 .claude/worktrees/
+CLAUDE.md
+.claude/
+HANDOFF.md
+ORGANIZER.md
